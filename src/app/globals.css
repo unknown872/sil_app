@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.login-bg {
+	background-image: url(https://img.freepik.com/photos-gratuite/image-objets-ingenierie-point-vue-du-lieu-travail-concept-construction-outils-ingenierie-effet-filtre-retro-tonalite-tension-mise-au-point-douce-mise-au-point-selective_1418-474.jpg?t=st=1711253859~exp=1711257459~hmac=48c5b220e9cb2459ee18ba6adaa4b12b84e2d9671bddcf72dacd856180cf44a1&w=900);
+}
